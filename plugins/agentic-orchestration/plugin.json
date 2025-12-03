@@ -1,0 +1,8 @@
+{
+  "schemaVersion": "1.0",
+  "name": "agentic-orchestration",
+  "label": "Agentic Orchestration",
+  "description": "Systematic orchestration framework for managing complex multi-task projects through agentic execution",
+  "version": "1.0.0",
+  "skills": "skills/"
+}

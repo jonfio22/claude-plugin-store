@@ -1,0 +1,57 @@
+{
+  "name": "jonfio-plugins",
+  "owner": {
+    "name": "jonfio22",
+    "url": "https://github.com/jonfio22"
+  },
+  "version": "1.0.0",
+  "description": "Claude Code plugin collection featuring DAW development tools, agentic orchestration frameworks, and Google ADK integration.",
+  "pluginRoot": "./plugins",
+  "plugins": [
+    {
+      "name": "daw-workflow",
+      "source": "./plugins/daw-workflow",
+      "description": "Production-grade DAW development toolkit with DSP mathematics, real-time audio patterns, Elementary Audio integration, state management, and professional audio metering.",
+      "version": "1.0.0",
+      "author": {
+        "name": "jonfio22",
+        "url": "https://github.com/jonfio22"
+      },
+      "homepage": "https://github.com/jonfio22/claude-plugin-store",
+      "repository": "github:jonfio22/claude-plugin-store",
+      "license": "MIT",
+      "keywords": ["daw", "dsp", "audio", "elementary-audio", "web-audio", "lufs", "metering"],
+      "category": "development"
+    },
+    {
+      "name": "agentic-orchestration",
+      "source": "./plugins/agentic-orchestration",
+      "description": "Systematic orchestration framework for managing complex multi-task projects through agentic execution.",
+      "version": "1.0.0",
+      "author": {
+        "name": "jonfio22",
+        "url": "https://github.com/jonfio22"
+      },
+      "homepage": "https://github.com/jonfio22/claude-plugin-store",
+      "repository": "github:jonfio22/claude-plugin-store",
+      "license": "MIT",
+      "keywords": ["agentic", "orchestration", "multi-task", "automation"],
+      "category": "productivity"
+    },
+    {
+      "name": "google-adk",
+      "source": "./plugins/google-adk",
+      "description": "Google Agent Development Kit (ADK) toolkit for building, evaluating, and deploying AI agents. Includes prompt engineering, tool design, multi-agent patterns, and deployment workflows.",
+      "version": "1.0.0",
+      "author": {
+        "name": "jonfio22",
+        "url": "https://github.com/jonfio22"
+      },
+      "homepage": "https://github.com/jonfio22/claude-plugin-store",
+      "repository": "github:jonfio22/claude-plugin-store",
+      "license": "MIT",
+      "keywords": ["google", "adk", "agents", "ai", "prompt-engineering"],
+      "category": "development"
+    }
+  ]
+}

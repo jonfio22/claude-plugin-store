@@ -1,0 +1,8 @@
+{
+  "name": "daw-workflow",
+  "version": "1.0.0",
+  "description": "Production-grade DAW development toolkit with DSP mathematics, real-time audio patterns, Elementary Audio integration, state management, and professional audio metering. Tailored for SoundSage DAW development.",
+  "author": {
+    "name": "SoundSage Team"
+  }
+}

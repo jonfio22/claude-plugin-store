@@ -1,0 +1,16 @@
+{
+  "description": "DAW workflow hooks for audio-related file operations",
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "If the file is in src/audio/, src/components/fx/, or src/components/meters/, briefly remind: 1) el.const nodes need unique keys 2) dB conversions use /20 for amplitude 3) L/R channels processed separately. Only respond if audio-related, otherwise say nothing."
+          }
+        ]
+      }
+    ]
+  }
+}

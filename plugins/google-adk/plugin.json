@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "1.0",
+  "name": "google-adk",
+  "label": "Google ADK",
+  "version": "1.0.0",
+  "description": "Google Agent Development Kit (ADK) toolkit for building, evaluating, and deploying AI agents. Includes prompt engineering, tool design, multi-agent patterns, and deployment workflows.",
+  "author": {
+    "name": "SoundSage Team"
+  },
+  "commands": "commands/",
+  "agents": "agents/",
+  "skills": "skills/"
+}

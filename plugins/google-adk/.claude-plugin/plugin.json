@@ -1,0 +1,19 @@
+{
+  "name": "google-adk",
+  "version": "1.0.0",
+  "description": "Google Agent Development Kit (ADK) workflow plugin for building, tuning, and deploying AI agents with December 2025 latest patterns",
+  "author": {
+    "name": "SoundSage",
+    "url": "https://github.com/jonfio22/sound-sage-finalboss"
+  },
+  "keywords": [
+    "google-adk",
+    "ai-agents",
+    "gemini",
+    "multi-agent",
+    "orchestration",
+    "deployment",
+    "vertex-ai",
+    "cloud-run"
+  ]
+}
