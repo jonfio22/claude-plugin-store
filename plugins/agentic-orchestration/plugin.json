@@ -2,7 +2,10 @@
   "schemaVersion": "1.0",
   "name": "agentic-orchestration",
   "label": "Agentic Orchestration",
-  "description": "Systematic orchestration framework for managing complex multi-task projects through agentic execution",
   "version": "1.0.0",
+  "description": "Systematic orchestration framework for managing complex multi-task projects through parallel agentic execution. Provides task decomposition strategies, agent specialization matching, and coordination patterns for large features, codebase-wide refactoring, and multi-system debugging.",
+  "author": {
+    "name": "jonfio22"
+  },
   "skills": "skills/"
 }

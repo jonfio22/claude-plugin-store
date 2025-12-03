@@ -26,7 +26,7 @@
     {
       "name": "agentic-orchestration",
       "source": "./plugins/agentic-orchestration",
-      "description": "Systematic orchestration framework for managing complex multi-task projects through agentic execution.",
+      "description": "Systematic orchestration framework for managing complex multi-task projects through parallel agentic execution. Provides task decomposition strategies, agent specialization matching, and coordination patterns for large features, codebase-wide refactoring, and multi-system debugging.",
       "version": "1.0.0",
       "author": {
         "name": "jonfio22",
@@ -35,7 +35,7 @@
       "homepage": "https://github.com/jonfio22/claude-plugin-store",
       "repository": "github:jonfio22/claude-plugin-store",
       "license": "MIT",
-      "keywords": ["agentic", "orchestration", "multi-task", "automation"],
+      "keywords": ["agentic", "orchestration", "multi-task", "automation", "parallel-execution", "task-decomposition", "agent-coordination"],
       "category": "productivity"
     },
     {
